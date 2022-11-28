@@ -1,0 +1,12 @@
+E:\FOXLEARN\CSharp\DirectoryInfo\DirectoryInfo\bin\Debug\DirectoryInfo.exe.config
+E:\FOXLEARN\CSharp\DirectoryInfo\DirectoryInfo\bin\Debug\DirectoryInfo.exe
+E:\FOXLEARN\CSharp\DirectoryInfo\DirectoryInfo\bin\Debug\DirectoryInfo.pdb
+E:\FOXLEARN\CSharp\DirectoryInfo\DirectoryInfo\obj\Debug\DirectoryInfo.csprojResolveAssemblyReference.cache
+E:\FOXLEARN\CSharp\DirectoryInfo\DirectoryInfo\obj\Debug\DirectoryInfo.exe
+E:\FOXLEARN\CSharp\DirectoryInfo\DirectoryInfo\obj\Debug\DirectoryInfo.pdb
+D:\FOXLEARN\CSharp\DirectoryInfo\DirectoryInfo\bin\Debug\DirectoryInfo.exe.config
+D:\FOXLEARN\CSharp\DirectoryInfo\DirectoryInfo\obj\Debug\DirectoryInfo.exe
+D:\FOXLEARN\CSharp\DirectoryInfo\DirectoryInfo\obj\Debug\DirectoryInfo.pdb
+D:\FOXLEARN\CSharp\DirectoryInfo\DirectoryInfo\bin\Debug\DirectoryInfo.exe
+D:\FOXLEARN\CSharp\DirectoryInfo\DirectoryInfo\bin\Debug\DirectoryInfo.pdb
+D:\FOXLEARN\CSharp\DirectoryInfo\DirectoryInfo\obj\Debug\DirectoryInfo.csprojResolveAssemblyReference.cache
